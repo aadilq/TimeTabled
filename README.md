@@ -10,7 +10,7 @@ TimeTabled is a simple React App that utilizes Components and Props to create a 
 
 
 
-<img width="1424" alt="Screenshot 2024-09-26 at 5 05 04 PM" src="/Users/aadil/timetabled/src/assets/NewYorkCalendar.png">
+![timeTabled Display Image](https://github.com/aadilq/timeTabled/blob/main/src/assets/NewYorkCalendar.png)
 
 
 ## Screenshots
