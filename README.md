@@ -10,11 +10,11 @@ TimeTabled is a simple React App that utilizes Components and Props to create a 
 
 
 
+
+## Screenshots
 ![timeTabled Display Image](https://github.com/aadilq/timeTabled/blob/main/src/assets/NewYorkCalendar.png)
 
 
-## Screenshots
-<
-
-- [@aadilq](https://github.com/aadilq)
+## Authors
+ [@aadilq](https://github.com/aadilq)
 
